@@ -1,3 +1,3 @@
 info:
-  foo:
-    bar
+  foo: bar
+secret: '{cipher}341de183c154985c550ca66dd5e96cee6f06fcba54770397d30c2050f4dc9017'

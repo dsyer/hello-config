@@ -1,2 +1,10 @@
-server.port: 8888
-spring.cloud.config.server.git.uri: file://${user.home}/dev/scratch/hello-config
+server:
+  port: 8888
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: file://${user.home}/dev/scratch/hello-config
+encrypt:
+  key: deadbeef
