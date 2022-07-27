@@ -1,3 +1,4 @@
 info:
   foo: bar
 secret: '{cipher}341de183c154985c550ca66dd5e96cee6f06fcba54770397d30c2050f4dc9017'
+one: '{cipher}{key:one}a460d1ad23a4f9f18837ed51af3c604f44153f1cfde5f3684c3aba3c87ab96f42c2aa8c841570982'

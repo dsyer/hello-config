@@ -8,3 +8,8 @@ spring:
           uri: file://${user.home}/dev/scratch/hello-config
 encrypt:
   key: deadbeef
+secrets:
+  keys:
+    one: flashbang
+    two: zippo
+  salt: jackman
